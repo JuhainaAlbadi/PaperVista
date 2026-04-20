@@ -1,0 +1,10 @@
+includes/config.php
+uploads/*
+!uploads/.gitkeep
+*.log
+error_log
+debug.log
+.well-known/
+cgi-bin/
+vendor/
+composer.phar
